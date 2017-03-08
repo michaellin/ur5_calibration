@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "dynamiceventanalyzer")
+set(dynamiceventanalyzer_MAINTAINER "jproberge <jproberge@todo.todo>")
+set(dynamiceventanalyzer_DEPRECATED "")
+set(dynamiceventanalyzer_VERSION "0.0.0")
+set(dynamiceventanalyzer_BUILD_DEPENDS "message_generation")
+set(dynamiceventanalyzer_RUN_DEPENDS "message_runtime")
+set(dynamiceventanalyzer_BUILDTOOL_DEPENDS "catkin")

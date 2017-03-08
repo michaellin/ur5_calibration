@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "robotiq_s_model_articulated_msgs")
+set(robotiq_s_model_articulated_msgs_MAINTAINER "Devon Ash <dash@clearpathrobotics.com>")
+set(robotiq_s_model_articulated_msgs_DEPRECATED "")
+set(robotiq_s_model_articulated_msgs_VERSION "1.0.0")
+set(robotiq_s_model_articulated_msgs_BUILD_DEPENDS "std_msgs" "message_generation")
+set(robotiq_s_model_articulated_msgs_RUN_DEPENDS "message_runtime" "std_msgs")
+set(robotiq_s_model_articulated_msgs_BUILDTOOL_DEPENDS "catkin")

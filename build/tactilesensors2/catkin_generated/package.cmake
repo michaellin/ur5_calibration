@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "tactilesensors2")
+set(tactilesensors2_MAINTAINER "jproberge <jean-philippe.roberge@etsmtl.ca>")
+set(tactilesensors2_DEPRECATED "")
+set(tactilesensors2_VERSION "1.0.0")
+set(tactilesensors2_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation")
+set(tactilesensors2_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_runtime")
+set(tactilesensors2_BUILDTOOL_DEPENDS "catkin")
